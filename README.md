@@ -31,3 +31,9 @@ Docente: Myrna Villegas Gaytán
 09.- Suma mediante dos metodos indirectos
 
 10.- Conversion a binario indirecta
+
+
+
+
+
+### Dentro de Cada Carpeta hay otra donde se contiene los archivos README.md program.cs y csproj, no pude encontrar la manera de acomodarlos como usted quiso maestra, perdon
